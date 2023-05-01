@@ -1,0 +1,28 @@
+}
+#neww{
+  font-style: italic;
+  padding: 45px;
+  border-radius: 100px;
+
+}
+.neww{
+  font-size: larger;
+  font-style: inherit;
+  font-variant-position: super;
+  width: 100px;
+
+}
+.btn{
+    background-color: aqua;
+    border: 5px;
+    border border-radius: 4px;
+  }
+  #Username{
+    border-radius: 20px;
+    background-color: brown;
+
+  }
+  .new{
+    padding: 20px; 
+    background-color: chartreuse ;" 
+  }  
